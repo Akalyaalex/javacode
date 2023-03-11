@@ -106,6 +106,7 @@ public class Main
 ```
 OUTPUT:
 ![QN 4](https://user-images.githubusercontent.com/114275126/224465494-874863cd-33ac-498e-b65e-93b291d5ab55.PNG)
+/*
 
 # QN 5.NUMBER OF DAYS IN MONTH
 
@@ -210,8 +211,9 @@ public class Main {
     
     OUTPUT:
     ![QN 6](https://user-images.githubusercontent.com/114275126/224465822-8a6ed470-7f3e-461e-836c-9e56aacea682.PNG)
+    \*
     
-  # QN 7.SIMPLE CALCULATOR
+**# QN 7.SIMPLE CALCULATOR**
   
   PROGRAM:
   ```
@@ -261,7 +263,8 @@ public class Main {
 OUTPUT:
 ![QN 7](https://user-images.githubusercontent.com/114275126/224465921-b004ade2-54e0-4a05-b40c-5078473e370a.PNG)
 
-# QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:
+**# QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:**
+
 PROGRAM:
 ```
 import java.util.Scanner;
