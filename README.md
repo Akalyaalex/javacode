@@ -1,7 +1,7 @@
 # javacode
 # ASSIGNMENT 1
 
-# QN 1.PRINT SUM,DIFFERENCE,PRODUCT,QOUTIENT AND REMAINDER OF TWO NUMBERS
+### QN 1.PRINT SUM,DIFFERENCE,PRODUCT,QOUTIENT AND REMAINDER OF TWO NUMBERS
 ```
 import java.util.Scanner;
                  
@@ -36,7 +36,7 @@ OUTPUT
 ![qnqn](https://user-images.githubusercontent.com/114275126/224463823-f79535f1-ce59-4717-90ec-e56a98197814.PNG)
 
 /*
-# QN 2.PROGRAM TO COMPARE TWO NUMBERS
+### QN 2.PROGRAM TO COMPARE TWO NUMBERS
 ```
 import java.util.Scanner;
 public class Main 
@@ -72,7 +72,7 @@ OUTPUT:
 ![QN 2](https://user-images.githubusercontent.com/114275126/224464729-a623d940-54f1-4145-85b4-c8b4354e429d.PNG)
 
 */
-# QN 3.CONVERT STRING TO INTEGER
+### QN 3.CONVERT STRING TO INTEGER
 PROGRAM 
 ```
 public class Main 
@@ -89,7 +89,7 @@ public class Main
 OUTPUT:
 ![QN 3](https://user-images.githubusercontent.com/114275126/224464769-0cb48d86-59a2-4054-9c50-224aac898043.PNG)
 
-# QN 4.AREA OF RHOMBUS
+### QN 4.AREA OF RHOMBUS
 ```
 public class Main
 {
@@ -106,7 +106,7 @@ OUTPUT:
 ![QN 4](https://user-images.githubusercontent.com/114275126/224465494-874863cd-33ac-498e-b65e-93b291d5ab55.PNG)
 /*
 
-# QN 5.NUMBER OF DAYS IN MONTH
+### QN 5.NUMBER OF DAYS IN MONTH
 ```
 import java.util.Scanner;
 public class Main {
@@ -185,7 +185,7 @@ public class Main {
 OUTPUT:
 ![QN 5](https://user-images.githubusercontent.com/114275126/224465700-54a486e3-7bcc-4d9a-8428-a5c42a8edd08.PNG)
 
-# QN.6 EVEN NUMBERS FROM 1 TO 20
+### QN.6 EVEN NUMBERS FROM 1 TO 20
 
 ```
 import java.util.Scanner;
@@ -209,7 +209,7 @@ public class Main {
     ![QN 6](https://user-images.githubusercontent.com/114275126/224465822-8a6ed470-7f3e-461e-836c-9e56aacea682.PNG)
     
     
-# QN.7 SIMPLE CALCULATOR
+### QN.7 SIMPLE CALCULATOR
 
 ```
 import java.util.Scanner;
@@ -259,7 +259,7 @@ public class Main {
 OUTPUT:
 ![QN 7](https://user-images.githubusercontent.com/114275126/224465921-b004ade2-54e0-4a05-b40c-5078473e370a.PNG)
 
-# QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:
+### QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:
 
 ```
 import java.util.Scanner;
