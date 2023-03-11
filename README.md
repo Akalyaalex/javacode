@@ -181,10 +181,12 @@ public class Main {
     }
 }
 ```
+
 OUTPUT:
 ![QN 5](https://user-images.githubusercontent.com/114275126/224465700-54a486e3-7bcc-4d9a-8428-a5c42a8edd08.PNG)
 
 # QN.6 EVEN NUMBERS FROM 1 TO 20
+
 ```
 import java.util.Scanner;
 public class Main {
@@ -201,15 +203,16 @@ public class Main {
             }
         }
     }
-    ```
+ ```
     
  OUTPUT:
     ![QN 6](https://user-images.githubusercontent.com/114275126/224465822-8a6ed470-7f3e-461e-836c-9e56aacea682.PNG)
     
     
 # QN.7 SIMPLE CALCULATOR
-  ```
-  import java.util.Scanner;
+
+```
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
@@ -252,10 +255,12 @@ public class Main {
     }
 }
 ```
+
 OUTPUT:
 ![QN 7](https://user-images.githubusercontent.com/114275126/224465921-b004ade2-54e0-4a05-b40c-5078473e370a.PNG)
 
 # QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:
+
 ```
 import java.util.Scanner;
 public class Main {
