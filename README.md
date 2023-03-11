@@ -90,8 +90,6 @@ OUTPUT:
 ![QN 3](https://user-images.githubusercontent.com/114275126/224464769-0cb48d86-59a2-4054-9c50-224aac898043.PNG)
 
 # QN 4.AREA OF RHOMBUS
-
-PROGRAM
 ```
 public class Main
 {
@@ -109,8 +107,6 @@ OUTPUT:
 /*
 
 # QN 5.NUMBER OF DAYS IN MONTH
-
-PROGRAM
 ```
 import java.util.Scanner;
 public class Main {
@@ -189,8 +185,6 @@ OUTPUT:
 ![QN 5](https://user-images.githubusercontent.com/114275126/224465700-54a486e3-7bcc-4d9a-8428-a5c42a8edd08.PNG)
 
 # QN.6 EVEN NUMBERS FROM 1 TO 20
-
-PROGRAM:
 ```
 import java.util.Scanner;
 public class Main {
@@ -209,13 +203,11 @@ public class Main {
     }
     ```
     
-    OUTPUT:
+ OUTPUT:
     ![QN 6](https://user-images.githubusercontent.com/114275126/224465822-8a6ed470-7f3e-461e-836c-9e56aacea682.PNG)
-    \*
     
-**# QN 7.SIMPLE CALCULATOR**
-  
-  PROGRAM:
+    
+# QN.7 SIMPLE CALCULATOR
   ```
   import java.util.Scanner;
 public class Main {
@@ -263,9 +255,7 @@ public class Main {
 OUTPUT:
 ![QN 7](https://user-images.githubusercontent.com/114275126/224465921-b004ade2-54e0-4a05-b40c-5078473e370a.PNG)
 
-**# QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:**
-
-PROGRAM:
+# QN 8.PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER:
 ```
 import java.util.Scanner;
 public class Main {
